@@ -1,5 +1,3 @@
-![](https://i.imgur.com/hWB1XRO.png)
-
 # Welcome to my portfolio!
 
 ##Built with
