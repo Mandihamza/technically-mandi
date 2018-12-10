@@ -192,9 +192,9 @@ const Index = () => (
               link="https://www.#.com"
               bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
             >
-            Click here and enjoy<br />
-            Tweet sized Haiku beauties<br />
-            Digital poetry
+            Digital poets<br />
+            Craft tweet sized haiku beauties<br />
+            Click here and enjoy!
             </ProjectCard>
             <ProjectCard
               title="[WIP] Blog"
