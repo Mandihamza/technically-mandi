@@ -194,7 +194,7 @@ const Index = () => (
             >
             Digital poets<br />
             Craft tweet sized haiku beauties<br />
-            Click here and enjoy!
+            Click here and enjoy! 
             </ProjectCard>
             <ProjectCard
               title="[WIP] Blog"
