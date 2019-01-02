@@ -188,16 +188,14 @@ const Index = () => (
               A website I built, and maintain for a local women's Non-Profit.
             </ProjectCard>
             <ProjectCard
-              title="Haiku Generator"
-              link="https://www.#.com"
+              title="Cats of Unsplash"
+              link="https://codepen.io/mandihamza/full/JwGLez"
               bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
             >
-            Digital poets<br />
-            Craft tweet sized haiku beauties<br />
-            Click here and enjoy! 
+            A pen that uses <a href="https://source.unsplash.com">Unsplash Source</a> to serve up cat pictures 😻 
             </ProjectCard>
             <ProjectCard
-              title="[WIP] Blog"
+              title="Dev.to Blog Posts"
               link="#"
               bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
             >
@@ -252,7 +250,7 @@ const Index = () => (
         <Inner>
           <Title>About</Title>
           <AboutHero>
-            <Avatar src={avatar} alt="John Doe" />
+            <Avatar src={avatar} alt="Picture of Mandi Hamza" />
             <AboutSub>
               I'm a self-taught developer with experience in e-commerce marketing & sponsorship development.
             </AboutSub>
