@@ -160,7 +160,7 @@ const Index = () => (
           <BigTitle>
             Hello, <br /> I'm Mandi Hamza.
           </BigTitle>
-          <Subtitle>I'm a software developer in training with experience in e-commerce marketing & sponsorship development. <br /><br />My favorite projects live here. Take a look!</Subtitle>
+          <Subtitle>I'm a self-taught developer with experience in e-commerce marketing & sponsorship development. <br /><br />My favorite projects live here. Take a look!</Subtitle>
         </Hero>
       </Content>
       <DividerMiddle
@@ -252,11 +252,15 @@ const Index = () => (
           <AboutHero>
             <Avatar src={avatar} alt="Picture of Mandi Hamza" />
             <AboutSub>
-              I'm a self-taught developer with experience in e-commerce marketing & sponsorship development.
+              You know that magical feeling you get the first time you print 'Hello World'?
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-            You know the feeling you get the first time you print 'Hello World'? That's a feeling I live for everyday. I love helping organizations build web experiences that deliver that same magical feeling.
+              Here’s the thing. Once you’ve peaked behind the wizard’s curtain you realize what you’ve learned it isn’t really magic at all. It’s power. <br /><br />
+
+              You can take an idea and turn it into a real product to help people. My life will be well lived if I can spend it empowering people with technical resources and education.<br /><br />
+
+              In my life away from the keyboard I’m a proud military wife, mother to an incredible daughter, and fur mom to Popcorn 😻 & Odie 🐶
           </AboutDesc>
         </Inner>
       </Content>
