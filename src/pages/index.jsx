@@ -196,7 +196,7 @@ const Index = () => (
             </ProjectCard>
             <ProjectCard
               title="Dev.to Blog Posts"
-              link="#"
+              link="https://dev.to/mandihamza"
               bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
             >
               A blog to share my experiences as I become a software developer.
