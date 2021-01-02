@@ -286,7 +286,7 @@ const Index = () => (
           <ContactText>
             Say <a href="https://docs.google.com/forms/d/e/1FAIpQLSeADbrbc0Vce-z5hy81lYQSDhghZzXzAqyXQXZgTbcg1H-0MA/viewform?usp=sf_link">Hi</a> or find me on other platforms:{' '}
             <a href="https://github.com/Mandihamza">GitHub</a> &{' '}
-            <a href="https://twitter.com/mandihamza/">Twitter</a>
+            <a href="https://twitter.com/_technicallyme/">Twitter</a>
           </ContactText>
         </Inner>
         <Footer>
