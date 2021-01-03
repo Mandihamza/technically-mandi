@@ -260,7 +260,7 @@ const Index = () => (
 
               You can take an idea and turn it into a real product to help people. My life will be well lived if I can spend it empowering people with technical resources and education.<br /><br />
 
-              In my life away from the keyboard I’m a proud military wife, mother to an incredible daughter, and fur mom to Popcorn 😻 & Odie 🐶
+              In my life away from the keyboard I’m a proud military wife, mother to an incredible daughter, and fur mom to Popcorn 😻 & Pretzel 😻
           </AboutDesc>
         </Inner>
       </Content>
